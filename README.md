@@ -64,6 +64,14 @@ Structural simulations were performed using SolidWorks Simulation to evaluate th
 
 *Figure 2. Stress distribution results for Link 1.*
 
+### Simulation Results
+
+- Maximum von Mises Stress: 28.86 MPa
+- Yield Strength: 27.57 MPa
+- Estimated Factor of Safety: 0.96
+- Result: Stress slightly exceeded yield strength, indicating the need for further geometry optimization.
+
+
 ### Observations
 
 * Maximum stress occurred near the joint connection region.
@@ -82,6 +90,14 @@ Structural simulations were performed using SolidWorks Simulation to evaluate th
 
 
 *Figure 3. Stress distribution results for Link 3.*
+
+### Simulation Results
+
+- Maximum von Mises Stress: 25.01 MPa
+- Yield Strength: 27.57 MPa
+- Estimated Factor of Safety: 1.10
+- Result: Peak stress remained below yield strength under the applied loading condition.
+
 
 ### Observations
 
