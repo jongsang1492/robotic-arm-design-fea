@@ -127,7 +127,6 @@ Through simulation-based analysis, the structural behavior of the robotic arm wa
 * SolidWorks CAD
 * Assembly Design
 * Finite Element Analysis (FEA)
-* Engineering Drawings
 * Material Selection
 * Structural Analysis
 * Design Optimization
