@@ -55,7 +55,7 @@ Structural simulations were performed using SolidWorks Simulation to evaluate th
 
 ### Link 1 Analysis
 
-**Material:** Aluminum Alloy
+**Material:** Aluminum 1060
 
 **Applied Torque:** 1.6 N·m
 
@@ -82,7 +82,7 @@ Structural simulations were performed using SolidWorks Simulation to evaluate th
 
 ### Link 3 Analysis
 
-**Material:** Aluminum Alloy
+**Material:** Aluminum 1060
 
 **Applied Torque:** 1.6 N·m
 
@@ -150,10 +150,3 @@ Through simulation-based analysis, the structural behavior of the robotic arm wa
 
 This project demonstrated the use of CAD modeling and Finite Element Analysis (FEA) to evaluate structural performance before manufacturing. Through iterative design modifications and simulation-based validation, critical stress concentrations were identified and analyzed to support engineering decision-making.
 
-## Author
-
-Daniel Yoo
-
-Mechanical Engineering Student
-
-University of Toronto
