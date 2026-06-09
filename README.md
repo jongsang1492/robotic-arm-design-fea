@@ -146,6 +146,10 @@ Through simulation-based analysis, the structural behavior of the robotic arm wa
 
 ---
 
+## Key Engineering Takeaways
+
+This project demonstrated the use of CAD modeling and Finite Element Analysis (FEA) to evaluate structural performance before manufacturing. Through iterative design modifications and simulation-based validation, critical stress concentrations were identified and analyzed to support engineering decision-making.
+
 ## Author
 
 Daniel Yoo
