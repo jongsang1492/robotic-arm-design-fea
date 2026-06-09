@@ -37,7 +37,7 @@ The objective was to design a robotic arm capable of supporting external loads w
 
 ## Mechanical Design
 
-The robotic arm consists of multiple interconnected links and a gripper mechanism designed using SolidWorks.
+The robotic arm consists of multiple interconnected links and a gripper mechanism designed using SolidWorks. The design was developed with consideration for manufacturability, assembly simplicity, and structural performance.
 
 Key design considerations included:
 
