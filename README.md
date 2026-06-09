@@ -10,6 +10,7 @@ The objective was to design a robotic arm capable of supporting external loads w
 
 ## Final Assembly
 
+<img width="628" height="503" alt="image" src="https://github.com/user-attachments/assets/b33b0962-9ba0-4365-a7e5-5d3bc06a261b" />
 
 
 *Figure 1. Complete robotic arm assembly designed in SolidWorks.*
@@ -58,7 +59,8 @@ Structural simulations were performed using SolidWorks Simulation to evaluate th
 
 **Applied Torque:** 1.6 N·m
 
-[INSERT LINK 1 FEA IMAGE HERE]
+<img width="1319" height="929" alt="스크린샷 2026-05-28 201242" src="https://github.com/user-attachments/assets/9600fc1f-fca9-42b6-84c9-02501bbf8486" />
+
 
 *Figure 2. Stress distribution results for Link 1.*
 
@@ -76,7 +78,8 @@ Structural simulations were performed using SolidWorks Simulation to evaluate th
 
 **Applied Torque:** 1.6 N·m
 
-[INSERT LINK 3 FEA IMAGE HERE]
+<img width="1494" height="752" alt="스크린샷 2026-05-28 205311" src="https://github.com/user-attachments/assets/27cc4895-479c-47a2-aae8-8c1533ba42df" />
+
 
 *Figure 3. Stress distribution results for Link 3.*
 
